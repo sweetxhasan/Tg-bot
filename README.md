@@ -1,2 +1,0 @@
-# Tg-bot
-None..
